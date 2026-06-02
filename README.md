@@ -1,5 +1,3 @@
-<img width="630" height="377" alt="image" src="https://github.com/user-attachments/assets/5e4aac7d-9fb9-4f2a-94da-77d198efb06b" /># Container-Online-Loading-System
-集装箱在线装载系统
 # 集装箱智能装箱系统
 ## 项目介绍
 本系统是一套集成三维装箱算法与3D可视化的在线集装箱装载方案规划平台，可维护集装箱与货品数据、智能自动装箱、自定义坐标摆放货物，平均装箱利用率可达95%以上，用于物流装箱方案仿真优化。
@@ -46,6 +44,3 @@
 - 三维可视化直观展示装载排布
 <img width="592" height="362" alt="image" src="https://github.com/user-attachments/assets/e0595e40-44ff-48bb-8bf7-42553603900c" />
 
-git clone https://github.com/xxx/container-loading-system.git
-cd container-loading-system
-# 安装依赖并启动项目
